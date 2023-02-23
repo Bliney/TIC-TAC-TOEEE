@@ -7,7 +7,7 @@ btn.addEventListener('click', Shkofriend)
 btnX.addEventListener('click', ShkocomputerX)
 
 function Shkofriend() {
-    window.open("https://ticc-tac-toee.netlify.app/")
+    window.open("https://playwithfriend.netlify.app/")
   
 }
 
